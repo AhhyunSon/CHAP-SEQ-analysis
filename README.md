@@ -17,6 +17,12 @@ This repository contains code for analyzing CHAP-seq data.
 
 ## Run
 
+Make sure all input files are in the same directory.
+
+Then run:
+
+bash run_pipeline.sh
+
 ```bash
 python step0_alanine_strict_full_pipeline.py
 python step1_pHigh.py
