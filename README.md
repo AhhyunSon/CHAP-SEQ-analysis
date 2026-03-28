@@ -23,12 +23,14 @@ Then run:
 ```bash
 bash run_pipeline.sh
 
+``` 
 Alternatively, run each step manually:
+```bash
 python step0_alanine_strict_full_pipeline.py
 python step1_pHigh.py
 python step2_FHigh.py
 python step3_Metrics.py
-
-## Notes
+``` 
+### Notes
 
 This repository includes a representative dataset for demonstration purposes.
