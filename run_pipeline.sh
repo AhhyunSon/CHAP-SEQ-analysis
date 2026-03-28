@@ -1,6 +1,6 @@
 #!/bin/bash
 
-python step0_alanine_strict_full_pipeline.py
-python step1_pHigh.py
-python step2_Fhigh.py
-python step3_Metrics.py
+python3 step0_alanine_strict_full_pipeline.py
+python3 step1_pHigh.py
+python3 step2_Fhigh.py
+python3 step3_Metrics.py
